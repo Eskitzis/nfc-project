@@ -272,6 +272,7 @@ body:before {
 }
 .user-settings .notify {
   position: relative;
+  cursor: pointer;
 }
 .user-settings .notify svg {
   width: 20px;
