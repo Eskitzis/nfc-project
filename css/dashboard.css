@@ -265,6 +265,10 @@ body:before {
   .sidebar-link-text{
     display: none;
   }
+  .side-wrapper{
+    width: 30px;
+  }
+  
 }
 .user-settings .notify {
   position: relative;
