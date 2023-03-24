@@ -262,6 +262,9 @@ body:before {
   .search-bar{
     width: 200px;
   }
+  .sidebar-link-text{
+    display: none;
+  }
 }
 .user-settings .notify {
   position: relative;
